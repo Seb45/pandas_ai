@@ -1,0 +1,5 @@
+streamlit
+pandasai
+langchain-anthropic
+seaborn
+python-dotenv
